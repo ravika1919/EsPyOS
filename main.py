@@ -5,6 +5,8 @@ import machine
 import network
 import urequests
 
+#UPDATE BROKEN!!! I BROKE IT!!! BY ACCIDENT
+
 VERSION_URL = "https://github.com/Marko-tem/EsPyOS/blob/main/version.txt"
 CODE_URL = "https://github.com/Marko-tem/EsPyOS/blob/main/main.py"
 
